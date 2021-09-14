@@ -5,8 +5,7 @@
 
 As we all know Android has a unique password system where it gives you a set of 9 dots and you draw a pattern to unlock it. It looks like this:
 
-![img](https://img.gadgethacks.com/img/original/71/62/63581195904113/0/635811959041137162.jpg)
-
+<img width="200px" src="https://img.gadgethacks.com/img/original/71/62/63581195904113/0/635811959041137162.jpg">
 It is organized in a such way to look like this:
 
 **1 2 3**<br>
